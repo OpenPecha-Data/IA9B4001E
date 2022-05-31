@@ -1,0 +1,25 @@
+id: IA9B4001E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:36:55.955975'
+last_modified: '2022-05-31T06:36:55.955981'
+parser: null
+source_metadata:
+  title: Nubpa Rigdzin Drak
+  language: bo
+  description: 'Texts by Nubpa Rigdzin Drak (nub pa rig ''dzin grags), who was born
+    in the thirteenth century:'
+  volume:
+    fE1BC:
+      title: Nubpa Rigdzin Drak's Parting from the Four Attachments
+      base_file: fE1BC.txt
+      order: 1
+      parent: null
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
